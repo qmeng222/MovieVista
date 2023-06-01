@@ -2,7 +2,7 @@
 
 ## Overview:
 
-- About: A content-based movie recommender
+- About: a movie plot generator (generates a movie plot description based on seed input) and content-based movie recommender
 
 ## Setup:
 
