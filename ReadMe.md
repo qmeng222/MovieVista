@@ -21,3 +21,5 @@
 1. Seed input:
    - Context: plot summary descriptions scraped from Wikipedia
    - Download: [jrobischon](https://www.kaggle.com/jrobischon)'s [Wikipedia Movie Plots dataset](https://www.kaggle.com/datasets/jrobischon/wikipedia-movie-plots) hosted on Kaggle
+2. OpenAI documentation: [How can I retrieve K nearest embedding vectors quickly?](https://platform.openai.com/docs/guides/embeddings/how-can-i-retrieve-k-nearest-embedding-vectors-quickly)
+3. OpenAI cookbook: [Using Vector Databases for Embeddings Search](https://github.com/openai/openai-cookbook/blob/main/examples/vector_databases/Using_vector_databases_for_embeddings_search.ipynb)
