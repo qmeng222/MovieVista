@@ -15,6 +15,10 @@
    pip install python_dotenv
    ```
    or simply `pip install openai python_dotenv` altogether!
+5. get started with Nomic:
+   - install the Nomic client: `pip install nomic`
+   - login my Nomic account: `nomic login`
+   - follow the instructions to obtain my access token, and enter my access token with `nomic login [token]`
 
 ## Resources:
 
