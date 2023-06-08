@@ -3,6 +3,11 @@
 ## Overview:
 
 - About: a movie plot generator (generates a movie plot description based on seed input) and content-based movie recommender
+- Highlights:
+  1. Utilized seed input from Kaggle, including movie plots scraped from Wikipedia.
+  2. Conducted cost estimation prior to embedding and established a cache of embeddings to avoid recomputing.
+  3. Transformed the movie plots into 1536-dimensional embeddings for accurate similarity analysis.
+  4. Implemented the K Nearest Neighbor algorithm for personalized and accurate movie recommendations.
 
 ## Setup:
 
